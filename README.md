@@ -71,6 +71,13 @@ A content-based movie recommender system using **tmdb dataset** that suggests si
 
 ---
 
+## 🔑 Some files are very large, so i paste their link below:
+
+**Simlarity.pkl**: https://drive.google.com/file/d/1jfskohammBG12aYsWTToY7uxmL6EOKiz/view?usp=sharing
+**tmdb_movies.csv**: https://drive.google.com/file/d/1KJMrvS_sO1wl3zeIEK9gCGcHiBeQDNHw/view?usp=sharing
+**tmdb_credits.csv**: https://drive.google.com/file/d/1GEC_JopZc2mlYs7IPDREmxcgVPZDn1eE/view?usp=sharing
+
+---
 
 ## 🔑 TMDB API Key
 
